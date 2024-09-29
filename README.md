@@ -10,10 +10,7 @@ Play: https://nbsp1221.github.io/react-minesweeper-game
 
 First, git clone this repository.
 
-```shell
-git clone https://github.com/nbsp1221/react-minesweeper-game.git
-cd react-minesweeper-game
-```
+
 
 Install npm packages.
 
